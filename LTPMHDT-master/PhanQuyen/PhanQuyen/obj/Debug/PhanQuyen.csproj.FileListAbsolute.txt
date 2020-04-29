@@ -1,0 +1,147 @@
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe.config
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.pdb
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csprojAssemblyReference.cache
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Properties.Resources.resources
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.GenerateResource.cache
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CoreCompileInputs.cache
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.exe
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.pdb
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.SqlServer.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.xml
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.SqlServer.xml
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CopyComplete
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Login.resources
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.ChangePassword.resources
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.MainForm.resources
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.ManagerUser.resources
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.AWT.WinForms.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Localedata.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Tools.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.Runtime.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\bin\Debug\IKVM.Runtime.JNI.dll
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.QuanLyLoaiNguoiDung.resources
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Quyen.resources
+E:\ki II nam 3\ltpmhdt\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.PhanQuyenNguoiDung.resources
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe.config
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.pdb
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.SqlServer.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.AWT.WinForms.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Localedata.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Tools.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.Runtime.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\IKVM.Runtime.JNI.dll
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.xml
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.SqlServer.xml
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csprojAssemblyReference.cache
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.ChangePassword.resources
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Login.resources
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.MainForm.resources
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.ManagerUser.resources
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.PhanQuyenNguoiDung.resources
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Properties.Resources.resources
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.QuanLyLoaiNguoiDung.resources
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Quyen.resources
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.GenerateResource.cache
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CoreCompileInputs.cache
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CopyComplete
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.exe
+E:\ki II nam 3\ltpmhdt\Gif\LTPMHDT\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.pdb
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe.config
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.exe
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\PhanQuyen.pdb
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.SqlServer.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.AWT.WinForms.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.Runtime.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\IKVM.Runtime.JNI.dll
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.xml
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\bin\Debug\EntityFramework.SqlServer.xml
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csprojAssemblyReference.cache
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.ChangePassword.resources
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Login.resources
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.MainForm.resources
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.ManagerUser.resources
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.PhanQuyenNguoiDung.resources
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Properties.Resources.resources
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.QuanLyLoaiNguoiDung.resources
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.Quyen.resources
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.GenerateResource.cache
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CoreCompileInputs.cache
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.csproj.CopyComplete
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.exe
+D:\IT\NAM3_HK2\OOSD_Mr.T.Van\T.7\LTPMHDT-master\PhanQuyen\PhanQuyen\obj\Debug\PhanQuyen.pdb
